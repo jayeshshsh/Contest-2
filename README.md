@@ -1,5 +1,5 @@
 # Contest-2
-contest 2
+Contest 2
 
 
 
